@@ -1,0 +1,35 @@
+h2 {
+	color: blue;
+}
+
+h1 {
+	font-family: Georgia;
+	font-size: 40px;
+	font-weight: underline;
+	font-style: uppercase;
+	color: white;
+	text-align: center;
+}
+
+p{
+	font-family: Verdana;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+}
+
+a {
+	color: red;
+}
+
+strong {
+	color: yellow;
+}
+
+body{
+	background-color: gray; 
+}
+
+
+
